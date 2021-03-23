@@ -1,13 +1,12 @@
 {
   "name": "after-order/complete",
-  "version": "1.0.0",
   "description": "This module update the order status",
   "type": "magento2-module",
   "require": {
-    "magento/framework": "*"
+    "magento/framework": "2.4.*"
   },
   "license": [
-    "App Team"
+    "proprietary"
   ],
   "autoload": {
     "files": [
