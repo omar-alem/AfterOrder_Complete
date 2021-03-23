@@ -2,9 +2,6 @@
   "name": "after-order/complete",
   "description": "This module update the order status",
   "type": "magento2-module",
-  "require": {
-    "magento/framework": "2.4.*"
-  },
   "license": [
     "proprietary"
   ],
