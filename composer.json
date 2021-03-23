@@ -1,0 +1,20 @@
+{
+  "name": "after-order/complete",
+  "version": "1.0.0",
+  "description": "This module update the order status",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "App Team"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "AfterOrder\\Complete\\": ""
+    }
+  }
+}
