@@ -1,5 +1,6 @@
 {
   "name": "after-order/complete",
+  "version": "1.0.5",
   "description": "This module update the order status",
   "type": "magento2-module",
   "license": [
